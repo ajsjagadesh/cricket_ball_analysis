@@ -1,0 +1,4 @@
+# Optional ball-model inference/training dependency.
+# Check the Ultralytics license (AGPL-3.0 or applicable Enterprise terms) and model
+# checkpoint license before using it in a commercial or redistributed application.
+ultralytics>=8.3

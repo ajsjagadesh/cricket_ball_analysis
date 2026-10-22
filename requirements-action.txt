@@ -1,0 +1,2 @@
+# Optional temporal bowling-action training and inference.
+torch>=2.5

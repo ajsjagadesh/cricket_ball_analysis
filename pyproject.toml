@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cricket-vision"
+version = "0.1.0"
+description = "Cricket match video analysis toolkit"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "numpy>=1.26",
+  "opencv-python>=4.10",
+  "PyYAML>=6.0",
+]
+
+[project.optional-dependencies]
+live-preview = ["streamlit>=1.66.0"]
+
+[tool.setuptools.packages.find]
+include = ["cricket_vision*"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
