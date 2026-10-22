@@ -5,6 +5,7 @@ This project is a Windows 11, Cricket video analysis toolkit. It is being develo
 ## Demo Video
 
 [Watch the Cricket Vision AI demo](output/annotated_04.mp4)
+https://github.com/ajsjagadesh/cricket_ball_analysis/tree/main/output/annotated_04.mp4
 
 ## Project structure
 
