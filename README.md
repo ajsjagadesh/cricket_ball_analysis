@@ -2,16 +2,15 @@
 
 This project is a Windows 11, Cricket video analysis toolkit. It is being developed incrementally according to the specification in this workspace.
 
-## Demo Video
 
-[Watch the Cricket Vision AI demo_01](output/annotated_04.mp4)
+## Download Cricket Vision AI Demo Videos
 
-[Watch the Cricket Vision AI demo_02](output/annotate_video_03.mp4)
+- [⬇️ Download Demo Video 01 — annotated_04.mp4](https://github.com/ajsjagadesh/cricket_ball_analysis/raw/refs/heads/main/output/annotated_04.mp4)
 
-[Watch the Cricket Vision AI demo_02](output/annotate_test01.mp4) 
+- [⬇️ Download Demo Video 02 — annotate_video_03.mp4](https://github.com/ajsjagadesh/cricket_ball_analysis/raw/refs/heads/main/output/annotate_video_03.mp4)
 
+- [⬇️ Download Demo Video 03 — annotate_test01.mp4](https://github.com/ajsjagadesh/cricket_ball_analysis/raw/refs/heads/main/output/annotate_test01.mp4)
 
-[⬇️ Download annotate_video_03.mp4](https://github.com/ajsjagadesh/cricket_ball_analysis/raw/refs/heads/main/output/annotate_video_03.mp4)
 
 
 
