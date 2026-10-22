@@ -4,9 +4,11 @@ This project is a Windows 11, Cricket video analysis toolkit. It is being develo
 
 ## Demo Video
 
-[Watch the Cricket Vision AI demo_01](output/annotated_04.mp4)  \n
-[Watch the Cricket Vision AI demo_02](output/annotate_video_03.mp4)  \n
-[Watch the Cricket Vision AI demo_02](output/annotate_test01.mp4)  \n
+[Watch the Cricket Vision AI demo_01](output/annotated_04.mp4)
+
+[Watch the Cricket Vision AI demo_02](output/annotate_video_03.mp4)
+
+[Watch the Cricket Vision AI demo_02](output/annotate_test01.mp4) 
 
 
 
