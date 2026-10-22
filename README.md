@@ -1,20 +1,10 @@
 # Cricket Vision AI
 
-This project is a Windows 11, Python-first cricket video analysis toolkit. It is being developed incrementally according to the specification in this workspace.
+This project is a Windows 11, Cricket video analysis toolkit. It is being developed incrementally according to the specification in this workspace.
 
-## Current phase
+## Demo Video
 
-Phase 1 is complete and includes the project skeleton, configuration loader, environment diagnostics, video reader, CLI, and automated tests.
-
-Phase 2 includes person detection using the locally configured Ultralytics pose checkpoint, an IoU tracker, visible-count overlay, and output writer. The person detector uses only the model's `person` class; generic frame motion and bright regions are no longer shown as player detections.
-
-Phase 3 and 4 are also implemented with a basic jersey-color team classifier and scene-cut detection, both tested with synthetic fixtures.
-
-Phase 5 adds an optional custom cricket-ball detector interface, image-plane ball association/tracking, short-term 2D trajectory overlays, JSONL metadata, and a user-supplied dataset training workflow.
-
-Phase 6 adds optional pose inference for a manually selected player track, pose-sequence features, clearly experimental delivery-state heuristics, and a manual release-frame labeling command.
-
-Phases 7–9 add delivery-grouped temporal action model training/evaluation, explicit native-vs-Python trajectory benchmarking, end-to-end performance metrics, and regression tests. The workflow is implemented; measured cricket accuracy remains dependent on user-provided labeled footage and checkpoints.
+[Watch the Cricket Vision AI demo](output/annotated_04.mp4)
 
 ## Project structure
 
